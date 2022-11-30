@@ -1,0 +1,34 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+#+REVEAL_EXTRA_CSS: ./css/blood.css
+#+REVEAL_EXTRA_CSS: ./css/fonts.css
+#+REVEAL_EXTERNAL_PLUGINS: (spotlight "js/spotlight.js" "plugin/spotlight.js")
+#+REVEAL_EXTRA_SCRIPT_SRC: ./js/caption.js
+#+REVEAL_EXTRA_SCRIPT_SRC: ./js/style.js
+#+REVEAL_PLUGINS: (highlight)
+#+REVEAL_HIGHLIGHT_CSS: https://cdn.jsdelivr.net/npm/reveal.js@4.2.0/plugin/highlight/monokai.css
+#+OPTIONS: reveal_global_footer:t
+#+OPTIONS: timestamp:nil toc:2 num:nil
+:END:
+
+#+title: A Evolução do Conhecimento
+#+AUTHOR: Pedro G. Branquinho
+
+* O que é conhecimento?
+* O conhecimento e o ser-humano
+
+* Pré-história
+** Possibilidades
+** Tradições orais
+* Início da História
+** Sumérios - 3500 A.c.
+- Tabula de Kish, Iraque 🇮🇶
+
+#+ATTR_HTML: :width 500px
+
+* 1450-1750 (Gutenberg a Diderot)
+** Gutenberg ~1450
+Invenção da máquina de impressão
+** Diderot ~1750
+Primeira Enciclopédia
