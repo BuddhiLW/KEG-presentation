@@ -16,19 +16,63 @@
 #+AUTHOR: Pedro G. Branquinho
 
 * O que é conhecimento?
+
+Definição:
+#+begin_quote
+O =conhecimento= constitui-se no **condensar de tempo**, no sistema nervoso.
+Isso é, o conjunto de experiências, sensações e impressões processadas e
+eventualmente registradas pelo sistema nervoso.
+#+end_quote
+
 * O conhecimento e o ser-humano
+** Humano, o ="Tempo-condensador"=
+Alfred Korzybski (1879-1950), o fundador da Semântica Geral, distingue as
+classes da vida em: [fn:1]
+- Classe =Químico-condensadora= (/Chemistry-binding/).
+- Classe =Espaço-condensadora= (/Space-binding/).
+- Classe =Tempo-condensadora= (/Time-binding/).
+
+O humano, em sua formulação, é um =tempo-condensador= e é o que o **distingue**
+de outras formas de vida.
+
+** As classes
+*** Plantas, algas e afins:
+- Usam energia solar e minérios.
+- Transformam em produtos químicos (orgânicos).
+
+**Essas características definem e diferenciam as vidas desses seres vivos.**
+
+*** Animais
+- Transformam a energia, com digestão.
+- Usam da energia cinética.
+- Se adaptarem ao seu habitat espacial.
+
+**Essas características definem e diferenciam a vida desses seres vivos.**
+
+*** Humano
+- Também, têm capacidade de digestão.
+- Também, têm de adaptar ao seu habitat espacial.
+- Processam, sinterizam, apropriam e passam experiências do passado.
+
+**Essa característica de síntese-temporal (/time-binding/) define e diferencia a
+vida desses seres vivos.**
 
 * Pré-história
 ** Possibilidades
 ** Tradições orais
 * Início da História
-** Sumérios - 3500 A.c.
+** Sumérios - 3500 A.c. (possivelmente antes)
 - Tabula de Kish, Iraque 🇮🇶
 
 #+ATTR_HTML: :width 500px
 
 * 1450-1750 (Gutenberg a Diderot)
 ** Gutenberg ~1450
-Invenção da máquina de impressão
+- Invenção da máquina de impressão.
+- Implica o começo da disseminação, em massa, de conhecimento.
 ** Diderot ~1750
 Primeira Enciclopédia
+
+* Footnotes
+
+[fn:1] ``Brotherhood of Humanity (1921)``
