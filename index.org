@@ -12,8 +12,9 @@
 #+OPTIONS: timestamp:nil toc:2 num:nil
 :END:
 
-#+title: A Evolução do Conhecimento
+#+TITLE: A Evolução do Conhecimento
 #+AUTHOR: Pedro G. Branquinho
+#+OPTIONS: toc:nil
 
 * O que é conhecimento?
 
@@ -26,14 +27,17 @@ eventualmente registradas pelo sistema nervoso.
 
 * O conhecimento e o ser-humano
 ** Humano, o ="Tempo-condensador"=
-Alfred Korzybski (1879-1950), o fundador da Semântica Geral, distingue as
-classes da vida em: [fn:1]
+**Alfred Korzybski (1879-1950), o fundador da Semântica Geral, distingue as
+classes da vida em: [fn:1]**
 - Classe =Químico-condensadora= (/Chemistry-binding/).
 - Classe =Espaço-condensadora= (/Space-binding/).
 - Classe =Tempo-condensadora= (/Time-binding/).
 
+#+begin_quote
 O humano, em sua formulação, é um =tempo-condensador= e é o que o **distingue**
 de outras formas de vida.
+#+end_quote
+
 
 ** As classes
 *** Plantas, algas e afins:
@@ -59,20 +63,84 @@ vida desses seres vivos.**
 
 * Pré-história
 ** Possibilidades
+*Civilização arquiologicamente perdida, da última era do gelo? ~12.800 A.c.
+ (Younger Dryas)* [fn:5]
+*** Sítio /Gunung Padang/ (Indonésia), 9600 A.c.
+- 109 metros de subida de um morro.
+- Construção com pedra vulcânicas e "cimento" (barro).
+- ~50.000 blocos de Basalto (~500kg, cada)
+- Blocos **não** são do local.
+
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/1.png]]
+*** Outros sítios de relevância
+- Malta: /Ggantija/, /Ghar Dalam/, /Mnajdra/.
+- México: /Cholula/.
+- Costa de Miami: /Bimini/.
+- Estados Unidos: /Poverty Point (Louisiana)/, /Lower Jakson Mound/, /Channeled Scablands/.
+- Turquia: /Gobekli Tepe/, /Deriunkuyu/.
+*** O maior evento **Geológico** moderno (~13.000 A.c.)
+Impacto de asteroides, e o **Young Dryas**.
+- Quedas de água do tamanho de dez Cataratas do Niagra.
+- Sete vezes mais largo.
+- 3000 vezes mais potência.
+
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/3.jpg]]
+*** Áreas afetadas pelos asteroides
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/4.png]]
+
 ** Tradições orais
+*** Mitos e histórias
+- Eventos extremamente significantes eram transformados em tradições orais e "folclore".
+*** Lista de civilizações com mitos de **Dilúvio**
+#+CAPTION: [[https://en.wikipedia.org/wiki/List_of_flood_myths][https://en.wikipedia.org/wiki/List_of_flood_myths]]
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/2.png]]
+*** México, lenda de /Quetzalcoatl/
+- Arquétipo de um sábio do além-mar.
+- Ensina a **agricultura (domesticação), astrologia, artetura/engenharia e literação**.
+- Deificado.
+#+begin_quote
+Ao tempo que os Espanhóis chegaram no "Novo Mundo", /Quetzalcoatl/ era
+simbolizado como deus dos ventos, patrono dos padres, e **inventor dos
+calendários e livros**.[fn:2]
+#+end_quote
+
 * Início da História
 ** Sumérios - 3500 A.c. (possivelmente antes)
 - Tabula de Kish, Iraque 🇮🇶
-
-#+ATTR_HTML: :width 500px
-
 * 1450-1750 (Gutenberg a Diderot)
-** Gutenberg ~1450
+** Gutenberg ~1440
 - Invenção da máquina de impressão.
 - Implica o começo da disseminação, em massa, de conhecimento.
-** Diderot ~1750
-Primeira Enciclopédia
+- Marca o início da era de =Comunicação em Massa=.
+** Evolução nos métodos de impressão
+- Inicialmente, uma máquina de Gutenberg produzia 3.600 páginas por dia.
+- Até 1500, foram produzidos mais de **20 milhões** de livros!
+- Em 1891, era possível imprimir *384.000 páginas por hora*, com uma máquina. [fn:3]
 
+** Evolução nos métodos de impressão
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/5.png]]
+** Propriedade Intelectual
+- Primeira Patente - 1421, Arquiteto Filippo Brunelleschi.
+- Primeira lei de Patente - 1474, Veneza. [fn:4]
+** Diderot, d'Alembert ~1750
+- Primeira Enciclopédia.
+- Organização do conhecimento especializado, em tópicos.
+- Representava um tópico, com diversos pontos de vista. [fn:4]
+
+* Rodapé
+1. "Brotherhood of Humanity (1921)"
+2. [[https://www.mythopedia.com/topics/quetzalcoatl][mythopedia.com/topics/quetzalcoatl]]
+3. [[https://en.wikipedia.org/wiki/Printing_press][https://en.wikipedia.org/wiki/Printing_press]]
+4. "Uma História Social do Conhecimento (2000)", Peter Burke
+5. "Ancient Apocalypse Documentary Series", Graham Hancock
 * Footnotes
-
-[fn:1] ``Brotherhood of Humanity (1921)``
+[fn:1] "Brotherhood of Humanity (1921)"
+[fn:2] [[https://www.mythopedia.com/topics/quetzalcoatl][mythopedia.com/topics/quetzalcoatl]]
+[fn:3] [[https://en.wikipedia.org/wiki/Printing_press][https://en.wikipedia.org/wiki/Printing_press]]
+[fn:4] "Uma História Social do Conhecimento (2000)", Peter Burke
+[fn:5] "Ancient Apocalypse Documentary Series", Graham Hancock
