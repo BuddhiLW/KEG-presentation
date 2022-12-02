@@ -25,7 +25,7 @@ Isso é, o conjunto de experiências, sensações e impressões processadas e
 eventualmente registradas pelo sistema nervoso.
 #+end_quote
 
-* O conhecimento e o ser-humano
+* O conhecimento e o serhumano
 ** Humano, o ="Tempo-condensador"=
 **Alfred Korzybski (1879-1950), o fundador da Semântica Geral, distingue as
 classes da vida em: [fn:1]**
@@ -37,7 +37,6 @@ classes da vida em: [fn:1]**
 O humano, em sua formulação, é um =tempo-condensador= e é o que o **distingue**
 de outras formas de vida.
 #+end_quote
-
 
 ** As classes
 *** Plantas, algas e afins:
