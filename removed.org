@@ -1,0 +1,53 @@
+#+title: Removed
+
+
+* Pré-história
+** Possibilidades
+*Civilização arquiologicamente perdida, da última era do gelo? ~12.800 A.c.
+ (Younger Dryas)* [fn:5]
+*** Sítio /Gunung Padang/ (Indonésia), 9600 A.c.
+- 109 metros de subida de um morro.
+- Construção com pedra vulcânicas e "cimento" (barro).
+- ~50.000 blocos de Basalto (~500kg, cada)
+- Blocos **não** são do local.
+
+*** Imagem de /Gunung Padang/
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/1.png]]
+*** Outros sítios de relevância
+- Malta: /Ggantija/, /Ghar Dalam/, /Mnajdra/.
+- México: /Cholula/.
+- Costa de Miami: /Bimini/.
+- Estados Unidos: /Poverty Point (Louisiana)/, /Lower Jakson Mound/, /Channeled Scablands/.
+- Turquia: /Gobekli Tepe/, /Deriunkuyu/.
+
+*** O maior evento **Geológico** moderno (~13.000 A.c.)
+Impacto de asteroides, e o **Young Dryas**.
+- Quedas de água do tamanho de dez Cataratas do Niagra.
+- Sete vezes mais largo.
+- 3000 vezes mais potência.
+
+*** Áreas com evidências Geológicas
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/3.jpg]]
+
+*** Áreas afetadas pelos asteroides
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/4.png]]
+
+** Tradições orais
+*** Mitos e histórias
+- Eventos extremamente significantes eram transformados em tradições orais e "folclore".
+*** Lista de civilizações com mitos de **Dilúvio**
+#+CAPTION: [[https://en.wikipedia.org/wiki/List_of_flood_myths][https://en.wikipedia.org/wiki/List_of_flood_myths]]
+#+ATTR_HTML: :width 1000px
+[[file:img/facti/2.png]]
+*** México, lenda de /Quetzalcoatl/
+- Arquétipo de um sábio do além-mar.
+- Ensina a **agricultura (domesticação), astrologia, artetura/engenharia e literação**.
+- Deificado.
+#+begin_quote
+Ao tempo que os Espanhóis chegaram no "Novo Mundo", /Quetzalcoatl/ era
+simbolizado como deus dos ventos, patrono dos padres, e **inventor dos
+calendários e livros**.[fn:2]
+#+end_quote
